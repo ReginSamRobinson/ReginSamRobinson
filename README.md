@@ -80,10 +80,10 @@
   <a href="https://www.linkedin.com/in/regin-sam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
   </a>
-  <a href="reginsam2006@gmail.com" target="_blank">
+  <a href="mailto:reginsam2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
   </a>
-  <a href="reginsam2006@outlook.com" target="_blank">
+  <a href="mailto:reginsam2006@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
   </a>
 </div>
