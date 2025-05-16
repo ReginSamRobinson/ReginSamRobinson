@@ -2,9 +2,9 @@
 
 ###
 
-<br clear="both">
 
-<h2 align="center">A Growing Data Scientist, AI/ML Engineer, and  Software Developer</h2>
+
+<h1 align="center">A Growing Data Scientist, AI/ML Engineer, and  Software Developer</h1>
 
 ###
 
