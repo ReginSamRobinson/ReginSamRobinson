@@ -2,9 +2,9 @@
 
 ###
 
+<br clear="both">
 
-
-<h1 align="center">A Growing Data Scientist, AI/ML Engineer, and  Software Developer</h1>
+<h2 align="center">A Growing Data Scientist, AI/ML Engineer, and  Software Developer</h2>
 
 ###
 
@@ -46,6 +46,12 @@
 
 <br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReginSamRobinson/ReginSamRobinson/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReginSamRobinson/ReginSamRobinson/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ReginSamRobinson/ReginSamRobinson/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <h3 align="left">Who Am I?</h3>
@@ -76,9 +82,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
+  <a href="https://www.linkedin.com/in/regin-sam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="reginsam2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+  </a>
+  <a href="reginsam2006@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -92,5 +104,11 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ReginSamRobinson/ReginSamRobinson/output/snake.svg" alt="Snake animation" />
 
 ###
