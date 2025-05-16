@@ -88,11 +88,7 @@
   </a>
 </div>
 
-###
-
 <h2 align="center">🤝 Support</h2>
-
-###
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!<br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!<br><br>Made with ❤️</p>
 
