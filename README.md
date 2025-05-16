@@ -88,20 +88,18 @@
   </a>
 </div>
 
-<h2 align="center">🤝 Support</h2>
+<br clear="both">
+
+<h2 align="left">🤝 Support</h2>
 
 <p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!<br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!<br><br>Made with ❤️</p>
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ReginSamRobinson.ReginSamRobinson&left_text=Profile%20Viewers"  />
 </div>
 
-###
 
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"  />
 </div>
-
-###
