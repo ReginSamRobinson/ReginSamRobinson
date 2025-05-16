@@ -64,17 +64,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReginSamRobinson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReginSamRobinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ReginSamRobinson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReginSamRobinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<h3 align="center">🤝 Support</h3>
-
-###
-
-<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!<br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!<br><br>Made with ❤️</p>
+<h2 align="left">🙋‍♂️ Let's Connect!!</h2>
 
 ###
 
@@ -82,15 +78,23 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/regin-sam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <a href="mailto:reginsam2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
+  <a href="reginsam2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="mailto:reginsam2006@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="20" alt="microsoft-outlook logo"  />
+  <a href="reginsam2006@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">🤝 Support</h2>
+
+###
+
+<p align="center">🎀 Contributions, 🔥 issues, and 🥮 feature requests are most welcome!<br><br>💙 If you like my projects, Give them ⭐ and Share it with friends!<br><br>Made with ❤️</p>
 
 ###
 
@@ -103,7 +107,5 @@
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"  />
 </div>
-
-###
 
 ###
