@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="center">They say ‘Jack of all trades, master of none’—I say ‘Master of all, because why not?’" 🔥</h4>
+<h4 align="center">My code doesn't bug — it just develops random features.🔥</h4>
 
 ###
 
