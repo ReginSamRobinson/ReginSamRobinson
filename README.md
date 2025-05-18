@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="center">My code doesn't bug — it just develops random features.🔥</h4>
+<h4 align="center">My code doesn't bug — it just develops new features.🔥</h4>
 
 ###
 
