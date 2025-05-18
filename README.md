@@ -65,7 +65,7 @@
 <h2 align="left">📈 Some Stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReginSamRobinson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1?cache_seconds=1" height="200" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ReginSamRobinson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_seconds=1&v={{STATS_VERSION}}" height="200" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReginSamRobinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2?cache_seconds=1" height="200" alt="languages graph"  />
 </div>
 
