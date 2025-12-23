@@ -99,8 +99,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ReginSamRobinson.ReginSamRobinson&left_text=Profile%20Viewers"  />
 </div>
-
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"  />
-</div>
